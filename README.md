@@ -101,7 +101,7 @@ Mémoire réalisé sous la direction du
 Docteur James Kouawa
 Enseignant-chercheur à l’ESMT
 
-AUTEURE
+
 Madeleine Biaye
 Licence professionnelle – Administration et Sécurité des Réseaux
 ESMT Dakar
